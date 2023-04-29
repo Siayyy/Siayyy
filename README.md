@@ -1,5 +1,5 @@
 # My VendingMachine Java Project
-This project is a simple Java application that demonstrates the use of a software vending machine.
+This project is a Java application that demonstrates the use of a software vending machine. 
 
 ## Prerequisites
 
